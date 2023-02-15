@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm @lucascheco!
 
-I'm a developer with a passion for audio programming and audio plugin development. I'm always looking to collaborate on audio projects, so don't hesitate to reach out!
+I'm an eletronic music producer and developer with a passion for audio programming and audio plugin development. I'm always looking to collaborate on audio projects, so don't hesitate to reach out!
 
 ### 🌟 My Skills
 
