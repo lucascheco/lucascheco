@@ -32,6 +32,6 @@ I'm an eletronic music producer and developer with a passion for audio programmi
 - LinkedIn: [linkedin.com/in/lucascheco](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BLizOI0VwSA63LdJen17SbA%3D%3D)
 <div align="center">
   <a href="https://github.com/lucascheco">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucascheco&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucascheco&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&layout=compact"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascheco&layout=compact&langs_count=10&theme=graywhite&hide=makefile"/>
 </div>
